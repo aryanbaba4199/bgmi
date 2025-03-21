@@ -1,0 +1,8 @@
+node_modules/
+.env
+app/node_modules/
+web/node_modules/
+backend/node_modules/
+app/.env
+web/.env
+backend/.envbackend/mongodb-compass_1.44.5_amd64.deb
