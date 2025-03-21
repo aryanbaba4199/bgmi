@@ -147,6 +147,7 @@ const MyMatchCard = ({ match, booking }) => {
               gap :4,
               marginTop : 10,
             }}>
+              
             
             <TouchableOpacity style={{...styles.detailButton, width : '32%'}}>
               <Text style={styles.detailText}>Player {index+1}</Text>
